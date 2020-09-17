@@ -2,3 +2,4 @@
 
 ## 목차
 * [Chapter 2. 의미 있는 이름](chap2-naming.md)
+* [Chapter 3. 함수](chap3-function.md)
